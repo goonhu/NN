@@ -3,6 +3,8 @@
 BERT => pre trained bert embedding will be used as the model embedding input 
 cf) https://github.com/imgarylai/bert-embedding
     
-CNN + RNN + VDCNN
+CNN / RNN / VDCNN
 
-possibly GANs for data augmentation, not sure follwing a chat with pranava 
+Dataset: IMDB or Sentiment140 (Twitter)
+
+possibly GANs for data augmentation, but not sure follwing a chat with pranava 
