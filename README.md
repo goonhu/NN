@@ -8,3 +8,6 @@ CNN / RNN / VDCNN
 Dataset: IMDB or Sentiment140 (Twitter)
 
 possibly GANs for data augmentation, but not sure follwing a chat with pranava 
+
+GPU access
+currently, deal with google colab, but I think I will use azure 
