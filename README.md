@@ -11,3 +11,7 @@ possibly GANs for data augmentation, but not sure follwing a chat with pranava
 
 GPU access
 currently, deal with google colab, but I think I will use azure 
+
+
+CNN test => kim yoon paper 
+
